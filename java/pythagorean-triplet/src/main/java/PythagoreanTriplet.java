@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
 class PythagoreanTriplet {
     private final int first, second, third;
     PythagoreanTriplet(int first, int second, int third) {
